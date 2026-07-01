@@ -81,7 +81,7 @@ O valor entregue aqui não é o veredito sobre o recomendador — é o diagnóst
 
 | Cadastros por grupo (confundimento temporal) | Eventos por dia | Conversão do funil |
 |---|---|---|
-| ![Cadastros por grupo](assets/signups_by_group.png) | ![Eventos por dia](assets/events_per_day.png) | ![Conversão do funil](assets/funnel_conversion.png) |
+| ![Cadastros por grupo](assets/g2_cadastros_grupo.png) | ![Eventos por dia](assets/g1_eventos_dia.png) | ![Conversão do funil](assets/g3_funil.png) |
 
 ## Como executar
 
